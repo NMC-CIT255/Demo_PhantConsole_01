@@ -1,0 +1,18 @@
+New Stream: CIT255_IoT_Test01
+CIT255_IoT_Test01
+
+Fields: temp
+
+Tags:
+
+Public URL http://data.sparkfun.com/streams/yAz56awylbHO0dvlpgY5
+Public Key yAz56awylbHO0dvlpgY5
+Private Key 4WwD54zyVRtjDBErYmXx
+Keep this key secret, and in a safe place.  You will not be able to retrieve it.
+
+Delete Key avlA4oke9buZ5lKE16kM
+This key can only be used once.  Keep this key secret, and in a safe place.  You will not be able to retrieve it.
+
+Logging using query string parameters
+Format: http://data.sparkfun.com/input/[publicKey]?private_key=[privateKey]&temp=[value]
+Example: http://data.sparkfun.com/input/yAz56awylbHO0dvlpgY5?private_key=4WwD54zyVRtjDBErYmXx&temp=3.90
